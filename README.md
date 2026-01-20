@@ -23,7 +23,9 @@ This project involves a comprehensive analysis of Vrinda Store's data using Exce
 - **Pivot Tables and Charts**: For analyzing and presenting data trends.
 - **Dashboards**: For summarizing and visualizing key insights.
 
-## 🗂️ Repository Structure
+## 🗂️ Dashboard
+<img width="946" height="544" alt="image" src="https://github.com/user-attachments/assets/2f2d99a8-cc7f-44c8-a37e-c298bf0a18d7" />
+
 
 ## 📈 Insights Delivered
 - Identification of top-performing products and categories.
